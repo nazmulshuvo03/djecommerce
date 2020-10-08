@@ -1,6 +1,7 @@
 # Django Project Boilerplate
 
-This repository is a boilerplate Django project for quickly getting started.
+This is a django project coded along with the following video:
+https://www.youtube.com/watch?v=YZvRrldjf1Y&t=4s
 
 [![alt text](https://github.com/justdjango/django_project_boilerplate/blob/master/thumbnail.png "Logo")](https://www.youtube.com/watch?v=GEogao-tUec)
 
